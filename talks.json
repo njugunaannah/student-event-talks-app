@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning", "Future Tech"],
+    "duration": 60,
+    "description": "A deep dive into the upcoming trends in AI and Machine Learning, and how they will shape our future."
+  },
+  {
+    "title": "Modern Web Development with WebAssembly",
+    "speakers": ["John Doe", "Jane Smith"],
+    "categories": ["Web Development", "WebAssembly"],
+    "duration": 60,
+    "description": "Explore how WebAssembly is revolutionizing web development by enabling near-native performance in browsers."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Alan Grant"],
+    "categories": ["Cybersecurity", "Quantum Computing"],
+    "duration": 60,
+    "description": "Understanding the threats and opportunities that quantum computing brings to the field of cybersecurity."
+  },
+  {
+    "title": "Building Scalable Cloud-Native Applications",
+    "speakers": ["Maria Rodriguez"],
+    "categories": ["Cloud Computing", "DevOps"],
+    "duration": 60,
+    "description": "Best practices for designing and deploying scalable, resilient, and cost-effective applications on the cloud."
+  },
+  {
+    "title": "The Ethics of AI and Automation",
+    "speakers": ["Professor Eleanor Vance"],
+    "categories": ["AI", "Ethics"],
+    "duration": 60,
+    "description": "A critical discussion on the ethical implications of artificial intelligence and automation in society."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["Samuel Chen"],
+    "categories": ["Web Development", "JavaScript"],
+    "duration": 60,
+    "description": "An unbiased look at the pros and cons of the most popular frontend frameworks: React, Vue, and Angular."
+  }
+]
